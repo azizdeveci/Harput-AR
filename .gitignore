@@ -1,8 +1,9 @@
-New-Item .gitignore -ItemType File
-Add-Content .gitignore "Library/"
-Add-Content .gitignore "Temp/"
-Add-Content .gitignore "Logs/"
-Add-Content .gitignore "*.csproj"
-Add-Content .gitignore "*.sln"
-Add-Content .gitignore "UserSettings/"
-Add-Content .gitignore ".vsconfig"
+﻿Library/
+Temp/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+.vsconfig
+obj/
+.vs/
