@@ -1,1 +1,10 @@
-https://trello.com/invite/b/6a3da665b303dc6bc688a18e/ATTI3ed2283725b5784856b426cb56c4dcfe19FB6C55/harput-kalesi-ar
+Harput Kalesi AR Projesi — Trello Board
+
+Board Adı  : Harput Kalesi AR
+Board URL  : https://trello.com/b/C8E1WcVE/harput-kalesi-ar
+Erişim     : Public (herkese açık)
+
+Listeler:
+- ✅ DONE     : Tamamlanan görevler
+- 🔄 DOING   : Devam eden görevler  
+- 📋 TO DO   : Yapılacak görevler
