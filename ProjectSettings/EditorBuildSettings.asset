@@ -4,6 +4,27 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7a73938318d20bc4587a15cd6a1b4b85
+  - enabled: 1
+    path: Assets/Scenes/S1_KuleRekonstruksiyonu.unity
+    guid: 3f6b9b49529ccf7469d472d54587b855
+  - enabled: 1
+    path: Assets/Scenes/S2_KabartmaAnimasyon.unity
+    guid: 256be47289f3c184eada6945e4ad93ac
+  - enabled: 1
+    path: Assets/Scenes/S3_ZamanGecisi.unity
+    guid: b0f5c00ca27a8024786ec5cbd3d11974
+  - enabled: 1
+    path: Assets/Scenes/S4_CocukMisyon.unity
+    guid: 8b146337ca0ef004a99698679c31113b
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6d1286389f0df1040a33c413c8270ca0, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: eefcd3fda49cb3547a452d2d35a761f2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f5e37c723ffa7894783695059769f740, type: 2}
