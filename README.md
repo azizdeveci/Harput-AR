@@ -243,14 +243,8 @@ Bu proje tek kişilik bir ekip tarafından yürütülmüştür — proje yöneti
 ## 🔗 Bağlantılar
 
 - **Trello Board:** [Trello_link.txt](Trello_link.txt) dosyasına bakın
-- **Fırat Üniversitesi:** https://www.firat.edu.tr
-- **TÜBİTAK Proje No:** 5240054
 - **ARCore Destekli Cihaz Listesi:** https://developers.google.com/ar/devices
 
 ---
 
-## 📄 Lisans
 
-MIT License — Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-> Prof. Dr. Fatih Özkaynak · Fırat Üniversitesi · TÜBİTAK 5240054
