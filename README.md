@@ -26,7 +26,7 @@
 
 ## 🎯 Uygulama Nedir?
 
-Fırat Üniversitesi ve **TÜBİTAK 5240054** projesi kapsamında geliştirilen bu uygulama, Harput Kalesi ziyaretçilerine **4 farklı AR deneyimi** sunar. Her senaryonun kendine özgü bir arka plan teması, fon müziği ve geri navigasyon butonu bulunur.
+Yazılım Mühendisliği Güncel Konular dersi projesi kapsamında geliştirilen bu uygulama, Harput Kalesi ziyaretçilerine **4 farklı AR deneyimi** sunar. Her senaryonun kendine özgü bir arka plan teması, fon müziği ve geri navigasyon butonu bulunur.
 
 | Senaryo | Açıklama | Süre | Hedef Kullanıcı |
 |---------|----------|------|------------------|
